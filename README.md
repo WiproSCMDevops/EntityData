@@ -1,2 +1,2 @@
 # EntityData
-Sample Legal Entity screen
+Wipro's demo application for Devops - Legal Entity Data
